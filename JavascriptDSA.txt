@@ -1,0 +1,64 @@
+***** Time complaxcity and Space Complexcity *****
+
+Time complaxcity : The time complexity of an algorithm is the amount of time it takes to complete as a function of the size of the input. 
+
+Space Complexcity : The space complexity of an algorithm is the amount of memory it uses as a function of the size of the input.
+
+
+
+***** Javascript Data Structure *****
+1) Array
+2) Stack
+3) Queue
+4) Linked List
+--- Intermediate Data Structure ----
+5) Tree
+6) Graph
+7) Hash Table
+8) Heap
+--- Advanced Data Structure ----
+9) Trie
+
+
+
+***** Algorithms *****
+1) Sorting Algorithms
+  a) Bubble sort 
+  b) Selection sort
+  c) Insertion sort
+  d) Merge sort
+  e) Quick sort
+
+2) Searching Algorithms
+  a) Linear Search
+  b) Binary Search
+  
+3) Recursion Algorithms
+  
+4) Graph Algorithms
+  a) Breadth-First Search (BFS)
+  b) Depth-First Search (DFS)
+  c) Dijkstra's algorithm
+  d) Bellman-Ford algorithm
+  e) Floyd-Warshall algorithm
+
+5) Greedy Algorithms
+6) Dynamic Programming
+--- Advanced algorithms ----
+7) Divide and Conquer Algorithms
+8) Bit Manipulation Algorithms
+9) Backtracking Algorithms
+10) Memoization Algorithms
+
+***** System Design (Optional) *****
+System Design Principles
+1) Scalability
+2) Performance
+3) Security
+4) Reliability
+5) Maintainability
+6) Testability
+7) User Experience
+
+Practice Practice Practice Practice Practice Practice Practice Practice
+Created by Abhishek Nayak 
